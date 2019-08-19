@@ -3,6 +3,8 @@
 *~
 *.diff
 *.patch
+*.log
+*.err
 *.sizecache.json
 .DS_Store
 node_modules
